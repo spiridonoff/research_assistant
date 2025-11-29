@@ -27,7 +27,7 @@ The system fetches paper abstracts, creates embeddings, performs similarity sear
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/spiridonoff/mini-research-assistant.git
+git clone https://github.com/spiridonoff/research-assistant.git
 cd mini-research-assistant
 ```
 
@@ -122,5 +122,5 @@ requirements.txt
 ---
 
 ## 📝 License
-
+This project is licensed under the [MIT License](./LICENSE).
 MIT License – feel free to reuse and modify.
